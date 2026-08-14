@@ -8,4 +8,3 @@ void agregarProducto(String nombre, double precio, int cantidad) {
   });
 
   print('\nProducto agregado correctamente.');
-}
