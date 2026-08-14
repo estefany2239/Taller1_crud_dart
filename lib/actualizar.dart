@@ -23,5 +23,5 @@ void actualizarProducto(
     productos[indice]['cantidad'] = cantidad;
   }
 
-  print('\nProducto actualizado correctamente.');
+  print('\nProductos actualizado correctamente.');
 }
