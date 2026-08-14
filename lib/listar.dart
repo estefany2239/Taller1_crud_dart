@@ -6,7 +6,7 @@ void listarProductos() {
     return;
   }
 
-  print('\n========== LISTA DE PRODUCTOS ==========');
+  print('\n LISTA DE PRODUCTOS');
 
   for (int i = 0; i < productos.length; i++) {
     print('\nProducto ${i + 1}');
